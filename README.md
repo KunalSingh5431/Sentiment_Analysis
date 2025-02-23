@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9958129f-b145-4fb7-af3a-9968314e3c1c)# 📊 Sentiva -A Sentiment Analysis Web App
+## 📊 Sentiva -A Sentiment Analysis Web App
 
 ![Sentiment Analysis](https://img.shields.io/badge/Sentiment-Analysis-brightgreen?style=for-the-badge)  
 A **React + Express + Python (NLTK)** based **Sentiment Analysis Web App** that predicts emotions from text input.
