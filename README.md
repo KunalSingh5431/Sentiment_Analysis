@@ -3,7 +3,7 @@
 ![Sentiment Analysis](https://img.shields.io/badge/Sentiment-Analysis-brightgreen?style=for-the-badge)  
 A **React + Express + Python (NLTK)** based **Sentiment Analysis Web App** that predicts emotions from text input.
 
-![Sentiva](https://github.com/user-attachments/assets/93e2f7f1-9d71-4853-bb48-68fe49ca9633)
+![Sentiva](https://github.com/user-attachments/assets/c80b7587-d0af-4219-9db9-042e85e9d322)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
