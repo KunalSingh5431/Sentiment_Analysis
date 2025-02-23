@@ -17,6 +17,9 @@ A **React + Express + Python (NLTK)** based **Sentiment Analysis Web App** that 
 ✅ Supports multiple emotions (Positive,Negative,Neutral)  
 ✅ User-friendly UI with React  
 ✅ Backend API with Express.js & Python  
+✅ Sentiment History Tracking for past analyses  
+✅ Option to Download Sentiment History as a CSV file  
+✅ Voice Input for Speech-to-Text in the input box  
 ✅ Deployable on **Render**  
 
 ## 🛠 Tech Stack
