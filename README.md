@@ -29,6 +29,20 @@ A **React + Express + Python (NLTK)** based **Sentiment Analysis Web App** that 
 - **Database:** None (Processing is real-time)
 - **Deployment:** Render
 
+## 📸 Screenshots 
+
+![Image](https://github.com/user-attachments/assets/0eea2271-b333-4480-868d-9a7c6fad26f9)
+![Image](https://github.com/user-attachments/assets/9d18ee29-65e8-46d5-99fb-e8c3c7530609)
+
+## 🧠 Machine Learning Model Used
+
+ Sentiment Analysis project utilizes **Multinomial Naïve Bayes (MultinomialNB)** for text classification, combined with **TF-IDF Vectorization** to preprocess the text data.
+
+### 🔍 How It Works:
+- Converts text into numerical format using **TF-IDF (Term Frequency-Inverse Document Frequency)**
+- Uses **Multinomial Naïve Bayes (MultinomialNB)**, a probabilistic model based on **Bayes’ Theorem**
+- Predicts sentiment categories: **Positive, Negative, or Neutral**
+
 ## 🖥️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
